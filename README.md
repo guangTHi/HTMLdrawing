@@ -1,2 +1,0 @@
-# HTMLdrawing
-Created with CodeSandbox
